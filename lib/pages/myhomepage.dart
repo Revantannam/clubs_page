@@ -99,7 +99,7 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
-jhgfx
+
 class RowClubs extends StatelessWidget {
   final String assetimage1;
   final String assetimage2;
