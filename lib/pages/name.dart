@@ -8,6 +8,7 @@ class Testing extends StatelessWidget {
       child: Column(
         children: [
           Text('data'),
+          Text('fdsdfghj'),
         ],
       ),
     );
