@@ -96,62 +96,6 @@ class MyHomePage extends StatelessWidget {
           ],
         ),
       ),
-      // drawer: Drawer(
-      //   child: ListView(
-      //     children: [
-      //       DrawerHeader(
-      //         child: Center(
-      //             child: Text(
-      //           'DIFFERENT CLUBS',
-      //           style: TextStyle(fontWeight: FontWeight.w700, fontSize: 20.0),
-      //         )),
-      //         decoration: BoxDecoration(color: Colors.grey[500]),
-      //       ),
-      //       ListTile(
-      //         title: Text(
-      //           'IDS',
-      //           style: textStyle,
-      //         ),
-      //         onTap: () => Navigator.pop(context, 'IDS'),
-      //       ),
-      //       ListTile(
-      //         title: Text(
-      //           'IRIDESCENCE',
-      //           style: textStyle,
-      //         ),
-      //         onTap: () => Navigator.pop(context, 'IRIDESCENCE'),
-      //       ),
-      //       ListTile(
-      //         title: Text(
-      //           'IV LABS',
-      //           style: textStyle,
-      //         ),
-      //         onTap: () => Navigator.pop(context, 'IV LABS'),
-      //       ),
-      //       ListTile(
-      //         title: Text(
-      //           'E-CELL',
-      //           style: textStyle,
-      //         ),
-      //         onTap: () => Navigator.pop(context, 'E-CELL'),
-      //       ),
-      //       ListTile(
-      //         title: Text(
-      //           'OCTAVES',
-      //           style: textStyle,
-      //         ),
-      //         onTap: () => Navigator.pop(context, 'OCTAVES'),
-      //       ),
-      //       ListTile(
-      //         title: Text(
-      //           'HALLABOL',
-      //           style: textStyle,
-      //         ),
-      //         onTap: () => Navigator.pop(context, 'HALLABOL'),
-      //       ),
-      //     ],
-      //   ),
-      // ),
     );
   }
 }
